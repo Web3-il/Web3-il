@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯I’m looking to collaborate with other content creators...
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [Web3-il](https://opensea.io/collection/web3il?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 
 
