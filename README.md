@@ -6,7 +6,6 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 - 😻 Check out the NFT collection I created: [Web3-il](https://opensea.io/collection/web3il?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
-- 📫 How to reach me ...
 
 <!---
 Web3-il/Web3-il is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
